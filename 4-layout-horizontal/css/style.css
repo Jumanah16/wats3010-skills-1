@@ -54,7 +54,7 @@ nav li a {
     top: 45%;
   }
   .align-right {
-    position: absolute;
-    right: 2%;
-    top: 45%;
-  }
+  position: absolute;
+  right: 2%;
+  top: 45%;
+}
